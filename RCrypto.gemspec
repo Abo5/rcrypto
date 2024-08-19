@@ -1,7 +1,7 @@
 # RCrypto.gemspec
 Gem::Specification.new do |spec|
   spec.name          = "rcrypto"
-  spec.version       = "1.0.1"
+  spec.version       = "1.0.2"
   spec.authors       = "MAVEN"
   spec.email         = "aszda33@gmail.com"
 
@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "openssl", "~> 2.2"
   spec.add_runtime_dependency "base64", "~> 3.0"
   spec.add_runtime_dependency "digest", "~> 3.0"
-  spec.add_runtime_dependency "securerandom", "~> 3.0"
+  
 
 
   spec.add_development_dependency "bundler", "~> 2.0"
