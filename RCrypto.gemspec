@@ -1,7 +1,7 @@
 # RCrypto.gemspec
 Gem::Specification.new do |spec|
   spec.name          = "rcrypto"
-  spec.version       = "1.0.2"
+  spec.version       = "1.0.3"
   spec.authors       = "MAVEN"
   spec.email         = "aszda33@gmail.com"
 
@@ -20,7 +20,6 @@ Gem::Specification.new do |spec|
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
 
   spec.add_runtime_dependency "openssl", "~> 2.2"
-  spec.add_runtime_dependency "base64", "~> 3.0"
   spec.add_runtime_dependency "digest", "~> 3.0"
   
 
