@@ -1,7 +1,7 @@
 # RCrypto.gemspec
 Gem::Specification.new do |spec|
   spec.name          = "rcrypto"
-  spec.version       = "1.0.5"
+  spec.version       = "1.0.6"
   spec.authors       = "MAVEN"
   spec.email         = "aszda33@gmail.com"
 
